@@ -1,8 +1,6 @@
 # Python Learning Journey
 
-Documenting my Python learning process — from basics to (eventually) data science, 
-alongside my Data Science Diploma at DUCAT and BCA degree.
-
+Documenting my Python learning process — from basics to (eventually) data science.
 ## Projects
 
 ### 01 - Student Result & Eligibility Checker
