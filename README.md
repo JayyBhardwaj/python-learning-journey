@@ -12,3 +12,12 @@ using nested if-else and logical operators (and/or).
 
 ## Progress Log
 - Day 8: Learned basics, if-else, nested if-else → Built first project
+- - Day 12: Learned functions, lists (append/remove/min) → Built Class Marks Manager
+
+
+### 02 - Class Marks Manager
+Built on Day 12 of learning Python. Uses functions and lists to manage 
+multiple students' marks — validates input, calculates average, assigns 
+a grade (reusing Day 8 logic), and removes the lowest score.
+
+[View Code](./02-class-marks-manager/marks_manager.py)
